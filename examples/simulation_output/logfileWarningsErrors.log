@@ -1,0 +1,2 @@
+2024-04-09T17:06:20,484  WARN PlansCalcRouteConfigGroup:378 The first mode routing (= teleported mode) params that are explicitly defined clear the default mode routing (= teleported mode) params.  If you want to avoid this 
+2024-04-09T17:06:20,484  WARN PlansCalcRouteConfigGroup:379     warning, use clearTeleportedModeParams(true) in code, and "clearDefaultTeleportedModeParams"=true in xml config.

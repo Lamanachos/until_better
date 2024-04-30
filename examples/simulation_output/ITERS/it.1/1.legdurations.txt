@@ -1,0 +1,28 @@
+pattern	0+	5+	10+	15+	20+	25+	30+	35+	40+	45+	50+	55+	60+
+education---other	5	14	4	4	1	1	0	1	0	0	0	1	0
+home---education	10	10	1	3	2	1	0	0	0	1	0	1	2
+home---leisure	66	15	11	4	7	2	6	5	4	4	8	2	12
+home---other	14	7	8	7	10	7	8	8	3	3	2	4	31
+home---pt interaction	0	0	0	0	0	0	1	1	0	0	0	0	0
+home---shop	6	7	6	3	3	5	4	3	3	3	1	2	20
+home---work	8	2	11	10	13	6	16	21	13	10	16	11	64
+leisure---home	70	13	10	7	4	8	8	6	4	3	10	4	8
+leisure---leisure	0	0	1	0	0	0	0	0	0	0	0	0	1
+leisure---work	5	6	5	6	6	2	1	3	4	3	0	2	13
+other---home	13	15	23	11	12	6	8	10	5	6	4	3	15
+other---leisure	2	7	2	2	1	3	0	2	2	2	4	0	7
+other---other	9	2	2	2	3	3	4	3	5	3	4	1	3
+other---shop	3	3	1	4	2	0	2	1	1	1	0	1	3
+other---work	1	1	0	0	0	1	0	0	1	1	0	0	2
+pt interaction---home	0	0	0	0	0	0	1	1	0	0	0	0	0
+pt interaction---pt interaction	1	0	0	1	0	0	0	1	0	1	0	0	2
+pt interaction---work	2	0	0	0	0	0	0	0	0	0	0	0	0
+shop---home	7	6	2	4	4	5	4	2	4	2	2	1	14
+shop---leisure	0	1	0	1	2	2	1	0	1	0	0	0	1
+shop---work	4	2	2	1	2	2	2	5	1	0	0	0	1
+work---home	11	2	6	8	13	20	12	15	8	14	19	3	77
+work---leisure	1	2	0	0	1	1	3	2	2	0	3	0	7
+work---other	2	0	5	5	1	6	3	4	3	3	5	1	18
+work---pt interaction	2	0	0	0	0	0	0	0	0	0	0	0	0
+
+average leg duration: 2397.5189340813463 seconds = 00:39:57

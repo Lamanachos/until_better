@@ -1,0 +1,4 @@
+Iteration	car	car_passenger	pt	walk
+0	8161	1535	137	265
+1	8237	1535	137	268
+2	8346	1536	137	279

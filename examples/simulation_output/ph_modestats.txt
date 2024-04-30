@@ -1,0 +1,4 @@
+Iteration	car_travel	car_wait	car_passenger_travel	car_passenger_wait	pt_travel	pt_wait	stageActivity_travel	stageActivity_wait	walk_travel	walk_wait
+0	247	0	33	0	4	0	0	0	61	0
+1	850	0	33	0	4	0	0	0	62	0
+2	1085	0	34	0	4	0	0	0	65	0
